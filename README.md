@@ -1,1 +1,1 @@
-# proyecto06_SensordeDistancia
+# proyecto07_SensordeDistancia
